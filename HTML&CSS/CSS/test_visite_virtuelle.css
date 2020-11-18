@@ -1,0 +1,50 @@
+body {
+  font-family: Arial;
+  padding: 10px;
+  background: url(https://www.toptal.com/designers/subtlepatterns/patterns/memphis-mini.png);
+  
+}
+
+
+
+iframe
+{
+	border:2px solid black;
+	object-position: right;
+	padding: 70px;
+	margin:50px;
+	float: center;
+	display: flex;
+}
+
+h1
+{
+	text-align:center;
+	border:1px solid black;
+	display: inline;
+	padding:45px;
+	margin-left: 325px;
+}
+
+p
+{
+	 font-family: Verdana;
+     font-size: 25px;
+     width: 50
+     height: 40;
+     padding-top: 7px;
+     text-align:center;
+     color:white;
+     background:white;
+     background-image: linear-gradient(#8ab717,#5c8001);
+     display:inline-block;
+     border-radius: 8px;
+     text-shadow: 0px 1px 0px white;
+     padding:30px;
+}
+
+p a 
+{
+	text-decoration: none;
+	color: white;
+}
